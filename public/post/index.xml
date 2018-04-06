@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Papers</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Papers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Apr 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Macroeconomic forecasting for Australia using a large number of predictors</title>
+      <link>/post/2018-04-04-4/</link>
+      <pubDate>Thu, 05 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018-04-04-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Immigration NZ and the harm model</title>
+      <link>/post/2018-04-04-2/</link>
+      <pubDate>Thu, 05 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018-04-04-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>“The Internal and External Validity of the Regression Discontinuity Design: A Meta-Analysis of 15 Within-Study-Comparisons”</title>
+      <link>/post/2018-04-04-1/</link>
+      <pubDate>Wed, 04 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018-04-04-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seeking nimble plumbers</title>
+      <link>/post/2018-04-04-3/</link>
+      <pubDate>Wed, 04 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018-04-04-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Does adding women to corporate boards increase stock price?</title>
+      <link>/post/2018-04-03-2/</link>
+      <pubDate>Tue, 03 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018-04-03-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Justify my love</title>
+      <link>/post/2018-04-03-1/</link>
+      <pubDate>Tue, 03 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018-04-03-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Super 15 Predictions for Round 8</title>
+      <link>/post/2018-04-03-3/</link>
+      <pubDate>Tue, 03 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018-04-03-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NRL Predictions for Round 5</title>
+      <link>/post/2018-04-03-4/</link>
+      <pubDate>Tue, 03 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018-04-03-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ὕδωρ &#43; σκοπῶ = water &#43; observe</title>
+      <link>/post/2018-04-03-5/</link>
+      <pubDate>Tue, 03 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018-04-03-5/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
