@@ -2,7 +2,7 @@ baseurl = "/"
 languageCode = "en-us"
 title = "Papers"
 theme = "hugo-xmag"
-googleAnalytics = ""
+googleAnalytics = "UA-74383918-1"
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 preserveTaxonomyNames = true
 footnotereturnlinkcontents = "↩"
@@ -18,20 +18,12 @@ paginate = 9
     name = "About"
     url = "/about/"
     weight = 2
-[[menu.main]]
-    name = "Subscribe"
-    url = "/index.xml"
 
 [params]
-    description = "light news/blog aggregator website for R"
+    description = "News/Blog aggregator website for Enviromental Sciences"
     summary_length = 300
-    github_edit = "https://github.com/yufree/daily/edit/master/content/"
-    footer = "&copy; [Miao YU](https://yufree.cn) 2018 | [Github](https://github.com/yufree) | [Twitter](https://twitter.com/yu_free)"
-    enable = true
-    owner = "yufree"
-    repo = "daily"
-    client_id = "e85e26891e27a971c2a8"
-    client_secret = "75394d3d25dbc264a72ef96244bee2c5ca7042db"
+    github_edit = "https://github.com/yufree/enviRSS/edit/master/content/"
+    footer = "&copy; [Dong](http://biodong.com) 2018"
 
 [params.text]
     back = "&larr; Back to Home"
