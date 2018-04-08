@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1523182467550.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "AF44E01E",
+    "lastKnownWriteTime" : 1523185034,
+    "last_content_update" : 1523185034198,
+    "path" : "~/Dropbox/Github/papers/R/fetch.R",
+    "project_path" : "R/fetch.R",
+    "properties" : {
+        "cursorPosition" : "17,55",
+        "scrollLine" : "10"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

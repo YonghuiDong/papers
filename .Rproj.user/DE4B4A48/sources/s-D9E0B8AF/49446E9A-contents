@@ -11,7 +11,7 @@ before_install:
 - export TZ=Etc/GMT+12
 - date
 - git config --global user.email "yonghui.dong@gmail.com"
-- git config --global user.name "Dong"
+- git config --global user.name "YonghuiDong"
 script:
 - Rscript R/fetch.R
 after_success:
