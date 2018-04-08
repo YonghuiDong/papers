@@ -1,5 +1,6 @@
 "website","update"
 "yihui.name/index.xml","2018-03-21"
+"https://yufree.cn/index.xml","2018-03-21"
 "http://leiminnet.cn/blog/index.php/feed/","2018-04-08"
 "http://feeds.feedburner.com/acs/ancham/","2018-04-06"
 "https://onlinelibrary.wiley.com/action/showFeed?jc=10982787&type=etoc&feed=rss","2018-04-06"
