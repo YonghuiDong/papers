@@ -15,7 +15,7 @@ for (i in 1:NROW(m)) {
         a <- scifetch::getrss(m[i,1])
         # control the abs length
         if(NROW(a)>0){
-                a$description <- substr(a$description,start=1, stop=500)
+                a$description <- substr(a$description,start=1, stop=2000)
         }
         n <- sum(as.POSIXct(a$date[1:NROW(a)])>as.POSIXct(m[i,2]))
         if(n>0){

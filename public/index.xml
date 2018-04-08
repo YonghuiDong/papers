@@ -90,9 +90,9 @@
       
       <guid>/about/</guid>
       <description>This is my personalized RSS feed. The feed list can be viewed here
-This site is built with Blogdown + Daily + Hugo. Thanks a lot to Yihui Xie and Yufree for their great works.
+This site was built with Blogdown + Daily + Hugo. Thanks a lot to Yihui Xie and Yufree for their great work.
 I have slightly modified the Daily templete to meet my own needs:
- display 3-day posts (rather than 1-day post)
+ display the recent 3-day posts (rather than 1-day post)
  disable comment and edit
   </description>
     </item>
