@@ -17,7 +17,7 @@ for (i in 1:NROW(m)) {
         if(NROW(a)>0){
                 a$description <- substr(a$description,start=1, stop=2000)
         }
-        n <- sum(as.POSIXct(a$date[1:NROW(a)])>as.POSIXct(m[i,2]))
+       n <- sum(as.POSIXct(a$date[1:NROW(a)])>as.POSIXct(m[i,2]))
         if(n>0){
                 temp <- a[1:n,]
                 x <- rbind(temp,x)
@@ -25,6 +25,8 @@ for (i in 1:NROW(m)) {
                 m[i,2] <- d
         }
 }
+
+
 if(NROW(x)>0){
         for (i in 1:NROW(x)){
                 p = sprintf('content/post/%s.md', paste0(d,'-',i))
