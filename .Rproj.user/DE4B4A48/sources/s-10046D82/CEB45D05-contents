@@ -1,4 +1,5 @@
 "website","update"
+<<<<<<< HEAD
 "support.rbind.io/index.xml","2018-02-26"
 "www.pzhao.org/en/index.xml","2018-03-20"
 "notstatschat.tumblr.com/rss","2018-04-01"
@@ -12,3 +13,7 @@
 "ropensci.org/blog/index.xml","2018-04-18"
 "simplystatistics.org/index.xml","2018-04-18"
 "andrewgelman.com/feed/","2018-04-18"
+=======
+"http://feeds.feedburner.com/ancham/","2018-04-06"
+"http://leiminnet.cn/blog/index.php/feed/","2018-04-14"
+>>>>>>> origin/master

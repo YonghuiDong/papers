@@ -1,14 +1,14 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1523616429210.000,
-    "dirty" : true,
+    "created" : 1524055941796.000,
+    "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
     "hash" : "0",
-    "id" : "FDA8D36E",
+    "id" : "54DFDAD9",
     "lastKnownWriteTime" : 1523270174,
-    "last_content_update" : 1523616525448,
+    "last_content_update" : 1523270174,
     "path" : "~/Dropbox/Github/papers/R/fetch.R",
     "project_path" : "R/fetch.R",
     "properties" : {

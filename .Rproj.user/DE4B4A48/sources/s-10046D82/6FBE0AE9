@@ -1,21 +1,21 @@
 {
     "collab_server" : "",
     "contents" : "",
-    "created" : 1524055570867.000,
+    "created" : 1524055917001.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
-    "id" : "CEB45D05",
-    "lastKnownWriteTime" : 1524055622,
-    "last_content_update" : 1524055622,
+    "hash" : "93116254",
+    "id" : "6FBE0AE9",
+    "lastKnownWriteTime" : 1524056015,
+    "last_content_update" : 1524056015146,
     "path" : "~/Dropbox/Github/papers/R/list.txt",
     "project_path" : "R/list.txt",
     "properties" : {
-        "cursorPosition" : "2,41",
+        "cursorPosition" : "1,41",
         "scrollLine" : "0"
     },
-    "relative_order" : 2,
+    "relative_order" : 1,
     "source_on_save" : false,
     "source_window" : "",
     "type" : "text"
