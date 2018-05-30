@@ -10,4 +10,4 @@
 "simplystatistics.org/index.xml","2018-05-24"
 "feeds.feedburner.com/StatsChat","2018-05-29"
 "blogs.worldbank.org/impactevaluations/rss.xml","2018-05-29"
-"andrewgelman.com/feed/","2018-05-29"
+"andrewgelman.com/feed/","2018-05-30"
