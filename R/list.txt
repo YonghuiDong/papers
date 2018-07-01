@@ -10,4 +10,4 @@
 "blogs.worldbank.org/impactevaluations/rss.xml","2018-06-29"
 "chrisblattman.com/feed/","2018-06-30"
 "simplystatistics.org/index.xml","2018-06-30"
-"andrewgelman.com/feed/","2018-06-30"
+"andrewgelman.com/feed/","2018-07-01"
