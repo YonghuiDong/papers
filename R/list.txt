@@ -10,4 +10,4 @@
 "chrisblattman.com/feed/","2018-07-15"
 "yihui.name/index.xml","2018-07-15"
 "feeds.feedburner.com/ProfessorRobJHyndman","2018-07-15"
-"andrewgelman.com/feed/","2018-07-15"
+"andrewgelman.com/feed/","2018-07-16"
