@@ -10,4 +10,4 @@
 "ropensci.org/blog/index.xml","2018-07-18"
 "blogs.worldbank.org/impactevaluations/rss.xml","2018-07-18"
 "yihui.name/index.xml","2018-07-18"
-"andrewgelman.com/feed/","2018-07-18"
+"andrewgelman.com/feed/","2018-07-19"
