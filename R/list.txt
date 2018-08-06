@@ -9,5 +9,5 @@
 "http://leiminnet.cn/blog/index.php/feed/","2018-08-04"
 "chrisblattman.com/feed/","2018-08-04"
 "yihui.name/index.xml","2018-08-04"
-"feeds.feedburner.com/ProfessorRobJHyndman","2018-08-04"
-"andrewgelman.com/feed/","2018-08-04"
+"feeds.feedburner.com/ProfessorRobJHyndman","2018-08-06"
+"andrewgelman.com/feed/","2018-08-06"
