@@ -9,5 +9,5 @@
 "feeds.feedburner.com/StatsChat","2018-08-16"
 "http://feeds.feedburner.com/ancham/","2018-08-17"
 "yihui.name/index.xml","2018-08-17"
-"feeds.feedburner.com/ProfessorRobJHyndman","2018-08-17"
-"andrewgelman.com/feed/","2018-08-17"
+"feeds.feedburner.com/ProfessorRobJHyndman","2018-08-18"
+"andrewgelman.com/feed/","2018-08-18"
