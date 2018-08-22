@@ -9,5 +9,5 @@
 "feeds.feedburner.com/StatsChat","2018-08-20"
 "yihui.name/index.xml","2018-08-20"
 "ropensci.org/blog/index.xml","2018-08-21"
-"feeds.feedburner.com/ProfessorRobJHyndman","2018-08-21"
-"andrewgelman.com/feed/","2018-08-21"
+"feeds.feedburner.com/ProfessorRobJHyndman","2018-08-22"
+"andrewgelman.com/feed/","2018-08-22"
