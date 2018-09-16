@@ -1,4 +1,5 @@
 "website","update"
+<<<<<<< HEAD
 "http://feeds.feedburner.com/ancham/","2018-04-06"
 "https://chrisblattman.com/feed/","2018-04-13"
 "notstatschat.tumblr.com/rss","2018-04-18"
@@ -7,3 +8,17 @@
 "feeds.feedburner.com/StatsChat","2018-04-18"
 https://ropensci.org/blog/index.xml,"2018-04-18"
 "andrewgelman.com/feed/","2018-04-18"
+=======
+"support.rbind.io/index.xml","2018-02-26"
+"notstatschat.tumblr.com/rss","2018-06-05"
+"blogs.worldbank.org/impactevaluations/rss.xml","2018-08-03"
+"simplystatistics.org/index.xml","2018-08-24"
+"chrisblattman.com/feed/","2018-08-25"
+"http://leiminnet.cn/blog/index.php/feed/","2018-08-27"
+"feeds.feedburner.com/StatsChat","2018-08-28"
+"http://feeds.feedburner.com/ancham/","2018-08-29"
+"ropensci.org/blog/index.xml","2018-08-29"
+"yihui.name/index.xml","2018-08-30"
+"feeds.feedburner.com/ProfessorRobJHyndman","2018-08-31"
+"andrewgelman.com/feed/","2018-08-31"
+>>>>>>> origin/master
