@@ -1,7 +1,4 @@
-"website","update"
-"<<<<<<< HEAD",""
-"=======",""
-">>>>>>> origin/master",""
+"http://feeds.feedburner.com/FellgernonBit",""
 "support.rbind.io/index.xml","2018-02-26"
 "http://feeds.feedburner.com/ancham/","2018-04-06"
 "https://chrisblattman.com/feed/","2018-04-13"
