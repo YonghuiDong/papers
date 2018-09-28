@@ -1,0 +1,33 @@
+---
+title: My Feed list
+author: ''
+date: ''
+slug: about
+categories: []
+tags: []
+description: ' '
+linkTitle: http://rss.biodong.com
+source: rss.biodong.com
+---
+
+```{r, echo = FALSE, message=FALSE, warning = FALSE, results='hide'}
+getwd() 
+```
+## 订阅列表
+
+这里你可以查看我的订阅列表和自动更新时间
+```{r, echo = FALSE, message=FALSE, warning = FALSE, results = 'hold'}
+library(DT)
+m = read.csv("../R/list.txt", colClasses = "character")
+datatable(m)
+```
+
+## 致谢
+
+该网站由 [Yihui Xie](yihui.name) 的 blogdown 和  [Yufree](https://yufree.cn) 的 daily 搭建，再此感谢。
+
+
+
+
+
+

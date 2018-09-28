@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Papers"
+title = "My Feed"
 theme = "hugo-xmag"
 googleAnalytics = "UA-74383918-1"
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
