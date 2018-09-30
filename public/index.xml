@@ -6,10 +6,55 @@
     <description>Recent content in My Feed List on My Feed</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Sep 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>游记: 山西博物院—虞弘墓石椁&amp;娄睿墓壁画等北朝文物</title>
+      <link>/post/2018-09-30-1/</link>
+      <pubDate>Sat, 29 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018-09-30-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The valley of medium reliability</title>
+      <link>/post/2018-09-29-1/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018-09-29-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How to compute the area of a polygon</title>
+      <link>/post/2018-09-29-2/</link>
+      <pubDate>Wed, 26 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018-09-29-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software quality: better in practice than in theory</title>
+      <link>/post/2018-09-29-4/</link>
+      <pubDate>Tue, 25 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018-09-29-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Passwords and power laws</title>
+      <link>/post/2018-09-29-3/</link>
+      <pubDate>Tue, 25 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018-09-29-3/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>生日公里数跑步计划达成2018</title>
@@ -30,11 +75,29 @@
     </item>
     
     <item>
+      <title>Riemann hypothesis, the fine structure constant, and the Todd function</title>
+      <link>/post/2018-09-29-5/</link>
+      <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018-09-29-5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>编程思维</title>
       <link>/post/2018-09-28-15/</link>
       <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/2018-09-28-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Three applications of Euler’s theorem</title>
+      <link>/post/2018-09-29-6/</link>
+      <pubDate>Sun, 23 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018-09-29-6/</guid>
       <description></description>
     </item>
     
@@ -62,6 +125,42 @@
       <pubDate>Fri, 21 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/2018-09-28-6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An empirical look at the Goldbach conjecture</title>
+      <link>/post/2018-09-29-9/</link>
+      <pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018-09-29-9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>News regarding ABC conjecture and Riemann Hypothesis</title>
+      <link>/post/2018-09-29-7/</link>
+      <pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018-09-29-7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Footnote on fifth root trick</title>
+      <link>/post/2018-09-29-8/</link>
+      <pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018-09-29-8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Number of groups of prime power order</title>
+      <link>/post/2018-09-29-10/</link>
+      <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2018-09-29-10/</guid>
       <description></description>
     </item>
     
@@ -228,24 +327,6 @@
     </item>
     
     <item>
-      <title>七夕</title>
-      <link>/post/2018-09-28-12/</link>
-      <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2018-09-28-12/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>来自东京的同学</title>
-      <link>/post/2018-09-28-13/</link>
-      <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2018-09-28-13/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>EuroPride Parade 2018（彩虹游行）</title>
       <link>/post/2018-09-28-48/</link>
       <pubDate>Sun, 19 Aug 2018 00:00:00 +0000</pubDate>
@@ -260,15 +341,6 @@
       <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
       
       <guid>/post/2018-09-28-20/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>【影评】日剧《四重奏》</title>
-      <link>/post/2018-09-28-14/</link>
-      <pubDate>Thu, 16 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2018-09-28-14/</guid>
       <description></description>
     </item>
     
@@ -494,7 +566,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>订阅列表 这里你可以查看我的订阅列表和自动更新时间 {&#34;x&#34;:{&#34;filter&#34;:&#34;none&#34;,&#34;data&#34;:[[&#34;1&#34;,&#34;2&#34;,&#34;3&#34;,&#34;4&#34;,&#34;5&#34;,&#34;6&#34;,&#34;7&#34;,&#34;8&#34;],[&#34;www.pzhao.org/en/index.xml&#34;,&#34;yihui.name/index.xml&#34;,&#34;http://leiminnet.cn/blog/index.php/feed/&#34;,&#34;http://feeds2.feedburner.com/Louis_Han&#34;,&#34;http://songchunlin.net/cn/feed/&#34;,&#34;https://muguayuan.com/feed&#34;,&#34;https://www.ylooper.com/feed/&#34;,&#34;https://yufree.cn/index.xml&#34;],[&#34;2018-09-07&#34;,&#34;2018-09-24&#34;,&#34;2018-09-28&#34;,&#34;2018-09-28&#34;,&#34;2018-04-28&#34;,&#34;2018-09-28&#34;,&#34;2018-09-28&#34;,&#34;2018-09-28&#34;]],&#34;container&#34;:&#34;\n \n \n \n website\n update\n \n \n&#34;,&#34;options&#34;:{&#34;order&#34;:[],&#34;autoWidth&#34;:false,&#34;orderClasses&#34;:false,&#34;columnDefs&#34;:[{&#34;orderable&#34;:false,&#34;targets&#34;:0}]}},&#34;evals&#34;:[],&#34;jsHooks&#34;:[]} 致谢 该网站由 Yihui Xie 的 blogdown 和 Yufree 的 daily 搭建，再此感谢。</description>
+      <description>订阅列表 这里你可以查看我的订阅列表 {&#34;x&#34;:{&#34;filter&#34;:&#34;none&#34;,&#34;data&#34;:[[&#34;1&#34;,&#34;2&#34;,&#34;3&#34;,&#34;4&#34;,&#34;5&#34;,&#34;6&#34;,&#34;7&#34;,&#34;8&#34;],[&#34;www.pzhao.org/en/index.xml&#34;,&#34;yihui.name/index.xml&#34;,&#34;http://leiminnet.cn/blog/index.php/feed/&#34;,&#34;http://feeds2.feedburner.com/Louis_Han&#34;,&#34;https://www.ylooper.com/feed/&#34;,&#34;https://yufree.cn/index.xml&#34;,&#34;http://feeds.feedburner.com/theendeavour&#34;,&#34;https://muguayuan.com/feed&#34;],[&#34;2018-09-07&#34;,&#34;2018-09-24&#34;,&#34;2018-09-28&#34;,&#34;2018-09-28&#34;,&#34;2018-09-28&#34;,&#34;2018-09-28&#34;,&#34;2018-09-29&#34;,&#34;2018-09-30&#34;],[&#34;http://www.pzhao.org&#34;,&#34;http://yihui.name&#34;,&#34; http://leiminnet.cn/blog/&#34;,&#34;http://louishan.com&#34;,&#34;ht</description>
     </item>
     
   </channel>

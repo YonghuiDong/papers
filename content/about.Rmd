@@ -15,7 +15,7 @@ getwd()
 ```
 ## 订阅列表
 
-这里你可以查看我的订阅列表和自动更新时间
+这里你可以查看我的订阅列表
 ```{r, echo = FALSE, message=FALSE, warning = FALSE, results = 'hold'}
 library(DT)
 m = read.csv("../R/list.txt", colClasses = "character")
