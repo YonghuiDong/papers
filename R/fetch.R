@@ -39,7 +39,7 @@ if(NROW(x)>0){
 }
 
 
-write.csv(m[order(m$update), , drop = FALSE], f, row.names = FALSE)
+write.csv(m[order(m$Update), , drop = FALSE], f, row.names = FALSE)
 
 # only keep the recent n-day (i.e. n = 3) markdown files in post directory
 n = 3
