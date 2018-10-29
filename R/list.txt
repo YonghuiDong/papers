@@ -6,4 +6,4 @@
 "https://muguayuan.com/feed","2018-10-26","https://muguayuan.com/","木瓜园"
 "http://feeds2.feedburner.com/Louis_Han","2018-10-27","http://louishan.com","韩大叔"
 "http://leiminnet.cn/blog/index.php/feed/","2018-10-28"," http://leiminnet.cn/blog/","印|记"
-"http://feeds.feedburner.com/theendeavour","2018-10-28","https://www.johndcook.com/blog/","John Cook"
+"http://feeds.feedburner.com/theendeavour","2018-10-29","https://www.johndcook.com/blog/","John Cook"
