@@ -21,5 +21,4 @@ script:
 after_success:
 - git add --all *
 - git commit -m"Daily update"
-- git push -q https://${GITHUB_PAT}@github.com/${TRAVIS_REPO_SLUG}.git HEAD:master
-- curl --include --request POST --data '{"title":"Created via API","body":"daily update","head":"YonghuiDong:master","base":"master"}' "https://api.github.com/repos/jpgroup/daily/pulls?access_token=${GITHUB_PAT}"
+- git push -q https://${GH_Token}@github.com/${TRAVIS_REPO_SLUG}.git HEAD:master
