@@ -6,557 +6,71 @@
     <description>Recent content in Posts on My Feed</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Nov 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>游记: 山西博物院—虞弘墓石椁&amp;娄睿墓壁画等北朝文物</title>
-      <link>/post/2018-09-30-1/</link>
-      <pubDate>Sat, 29 Sep 2018 00:00:00 +0000</pubDate>
+      <title>《加油向未来》20181104 知识点收集</title>
+      <link>/post/2018-11-05-1/</link>
+      <pubDate>Sun, 04 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/2018-09-30-1/</guid>
+      <guid>/post/2018-11-05-1/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>The valley of medium reliability</title>
-      <link>/post/2018-09-29-1/</link>
-      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      <title>Continued fraction cryptography</title>
+      <link>/post/2018-11-03-1/</link>
+      <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/2018-09-29-1/</guid>
+      <guid>/post/2018-11-03-1/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>How to compute the area of a polygon</title>
-      <link>/post/2018-09-29-2/</link>
-      <pubDate>Wed, 26 Sep 2018 00:00:00 +0000</pubDate>
+      <title>博客: 噩耗</title>
+      <link>/post/2018-11-03-5/</link>
+      <pubDate>Fri, 02 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/2018-09-29-2/</guid>
+      <guid>/post/2018-11-03-5/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Software quality: better in practice than in theory</title>
-      <link>/post/2018-09-29-4/</link>
-      <pubDate>Tue, 25 Sep 2018 00:00:00 +0000</pubDate>
+      <title>Earth mover distance and t-closeness</title>
+      <link>/post/2018-11-03-2/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/2018-09-29-4/</guid>
+      <guid>/post/2018-11-03-2/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Passwords and power laws</title>
-      <link>/post/2018-09-29-3/</link>
-      <pubDate>Tue, 25 Sep 2018 00:00:00 +0000</pubDate>
+      <title>新唐DM相关知识汇总（二）</title>
+      <link>/post/2018-11-03-3/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/2018-09-29-3/</guid>
+      <guid>/post/2018-11-03-3/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>生日公里数跑步计划达成2018</title>
-      <link>/post/2018-09-28-52/</link>
-      <pubDate>Tue, 25 Sep 2018 00:00:00 +0000</pubDate>
+      <title></title>
+      <link>/post/2018-11-03-4/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/2018-09-28-52/</guid>
+      <guid>/post/2018-11-03-4/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>【书评】《饲蛟》</title>
-      <link>/post/2018-09-28-5/</link>
-      <pubDate>Tue, 25 Sep 2018 00:00:00 +0000</pubDate>
+      <title>转世问题的理论困境</title>
+      <link>/post/2018-11-03-6/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/2018-09-28-5/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Riemann hypothesis, the fine structure constant, and the Todd function</title>
-      <link>/post/2018-09-29-5/</link>
-      <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2018-09-29-5/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>编程思维</title>
-      <link>/post/2018-09-28-15/</link>
-      <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2018-09-28-15/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Three applications of Euler’s theorem</title>
-      <link>/post/2018-09-29-6/</link>
-      <pubDate>Sun, 23 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2018-09-29-6/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>《加油向未来》20180923 知识点收集</title>
-      <link>/post/2018-09-28-42/</link>
-      <pubDate>Sun, 23 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2018-09-28-42/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>游记: 参观某企业的 WMS 系统</title>
-      <link>/post/2018-09-28-2/</link>
-      <pubDate>Fri, 21 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2018-09-28-2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>秋游北海道</title>
-      <link>/post/2018-09-28-6/</link>
-      <pubDate>Fri, 21 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2018-09-28-6/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>An empirical look at the Goldbach conjecture</title>
-      <link>/post/2018-09-29-9/</link>
-      <pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2018-09-29-9/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>News regarding ABC conjecture and Riemann Hypothesis</title>
-      <link>/post/2018-09-29-7/</link>
-      <pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2018-09-29-7/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Footnote on fifth root trick</title>
-      <link>/post/2018-09-29-8/</link>
-      <pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2018-09-29-8/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Number of groups of prime power order</title>
-      <link>/post/2018-09-29-10/</link>
-      <pubDate>Wed, 19 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2018-09-29-10/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>斯德哥尔摩 Gröna Lund 游乐场半日游</title>
-      <link>/post/2018-09-28-43/</link>
-      <pubDate>Sun, 16 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2018-09-28-43/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>风险控制</title>
-      <link>/post/2018-09-28-16/</link>
-      <pubDate>Sun, 16 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2018-09-28-16/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>实验室夏季旅行2018-伊势&amp;鸟羽</title>
-      <link>/post/2018-09-28-7/</link>
-      <pubDate>Tue, 11 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2018-09-28-7/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>暂停更新</title>
-      <link>/post/2018-09-28-53/</link>
-      <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2018-09-28-53/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>饮食周期表</title>
-      <link>/post/2018-09-28-17/</link>
-      <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2018-09-28-17/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>《加油向未来》20180909 知识点收集	</title>
-      <link>/post/2018-09-28-44/</link>
-      <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2018-09-28-44/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>开学瞬间忙如狗</title>
-      <link>/post/2018-09-28-45/</link>
-      <pubDate>Fri, 07 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2018-09-28-45/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>又地震</title>
-      <link>/post/2018-09-28-8/</link>
-      <pubDate>Thu, 06 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2018-09-28-8/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>2018年8月跑步记录</title>
-      <link>/post/2018-09-28-54/</link>
-      <pubDate>Tue, 04 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2018-09-28-54/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>《加油向未来》20180902 知识点收集	</title>
-      <link>/post/2018-09-28-46/</link>
-      <pubDate>Sun, 02 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2018-09-28-46/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>博客: 晚点了</title>
-      <link>/post/2018-09-28-3/</link>
-      <pubDate>Sun, 02 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2018-09-28-3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>加州游记（下）</title>
-      <link>/post/2018-09-28-18/</link>
-      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2018-09-28-18/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>《一生的读书计划》书单目录</title>
-      <link>/post/2018-09-28-55/</link>
-      <pubDate>Wed, 29 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2018-09-28-55/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>【书评】《破云》by淮上</title>
-      <link>/post/2018-09-28-9/</link>
-      <pubDate>Wed, 29 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2018-09-28-9/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>博客: 等了两年，Reeder 3 限免了</title>
-      <link>/post/2018-09-28-4/</link>
-      <pubDate>Tue, 28 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2018-09-28-4/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>共克时艰</title>
-      <link>/post/2018-09-28-56/</link>
-      <pubDate>Mon, 27 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2018-09-28-56/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>《加油向未来》20180826 知识点收集</title>
-      <link>/post/2018-09-28-47/</link>
-      <pubDate>Sun, 26 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2018-09-28-47/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>加州游记（上）</title>
-      <link>/post/2018-09-28-19/</link>
-      <pubDate>Sun, 26 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2018-09-28-19/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>EuroPride Parade 2018（彩虹游行）</title>
-      <link>/post/2018-09-28-48/</link>
-      <pubDate>Sun, 19 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2018-09-28-48/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>江湖夜雨</title>
-      <link>/post/2018-09-28-20/</link>
-      <pubDate>Fri, 17 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2018-09-28-20/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>又是一个新学期</title>
-      <link>/post/2018-09-28-50/</link>
-      <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2018-09-28-50/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>《加油向未来》20180812 知识点收集</title>
-      <link>/post/2018-09-28-49/</link>
-      <pubDate>Mon, 13 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2018-09-28-49/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>吃在加拿大</title>
-      <link>/post/2018-09-28-21/</link>
-      <pubDate>Tue, 07 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2018-09-28-21/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>短链氯化石蜡的定量方法</title>
-      <link>/post/2018-09-28-22/</link>
-      <pubDate>Mon, 06 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2018-09-28-22/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>单人皮划艇经历解锁</title>
-      <link>/post/2018-09-28-51/</link>
-      <pubDate>Sat, 04 Aug 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2018-09-28-51/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>曲高和寡</title>
-      <link>/post/2018-09-28-23/</link>
-      <pubDate>Sun, 29 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2018-09-28-23/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>绿色革命与氮磷污染</title>
-      <link>/post/2018-09-28-24/</link>
-      <pubDate>Wed, 25 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2018-09-28-24/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>人外有人 天外有天</title>
-      <link>/post/2018-09-28-25/</link>
-      <pubDate>Fri, 20 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2018-09-28-25/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>现代科研兵刃谱</title>
-      <link>/post/2018-09-28-26/</link>
-      <pubDate>Sat, 14 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2018-09-28-26/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>战果蝇</title>
-      <link>/post/2018-09-28-28/</link>
-      <pubDate>Fri, 13 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2018-09-28-28/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Metabolomics data analysis workshop slides @ UWaterloo</title>
-      <link>/post/2018-09-28-27/</link>
-      <pubDate>Fri, 13 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2018-09-28-27/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>研究生日常词典</title>
-      <link>/post/2018-09-28-29/</link>
-      <pubDate>Sun, 08 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2018-09-28-29/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>2018上半年研究速递</title>
-      <link>/post/2018-09-28-30/</link>
-      <pubDate>Mon, 02 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2018-09-28-30/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>图灵机与可计算问题</title>
-      <link>/post/2018-09-28-31/</link>
-      <pubDate>Sat, 30 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2018-09-28-31/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>选专业</title>
-      <link>/post/2018-09-28-32/</link>
-      <pubDate>Fri, 15 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2018-09-28-32/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>作为入侵物种的人类</title>
-      <link>/post/2018-09-28-33/</link>
-      <pubDate>Sun, 10 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2018-09-28-33/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R语言会议幻灯片读后感</title>
-      <link>/post/2018-09-28-34/</link>
-      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2018-09-28-34/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>从入门到放弃</title>
-      <link>/post/2018-09-28-35/</link>
-      <pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2018-09-28-35/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>两种结论错误与研商</title>
-      <link>/post/2018-09-28-36/</link>
-      <pubDate>Thu, 17 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2018-09-28-36/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>修行日记</title>
-      <link>/post/2018-09-28-37/</link>
-      <pubDate>Thu, 10 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2018-09-28-37/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>狐狸还是刺猬</title>
-      <link>/post/2018-09-28-38/</link>
-      <pubDate>Mon, 07 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2018-09-28-38/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>实验室大扫除</title>
-      <link>/post/2018-09-28-39/</link>
-      <pubDate>Thu, 03 May 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2018-09-28-39/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>买菜的游戏</title>
-      <link>/post/2018-09-28-40/</link>
-      <pubDate>Mon, 23 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2018-09-28-40/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Play with HMDB datasets: Part II</title>
-      <link>/post/2018-09-28-41/</link>
-      <pubDate>Sun, 22 Apr 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2018-09-28-41/</guid>
+      <guid>/post/2018-11-03-6/</guid>
       <description></description>
     </item>
     
