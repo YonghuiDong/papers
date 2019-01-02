@@ -4,5 +4,5 @@
 "https://muguayuan.com/feed","2018-12-09","https://muguayuan.com/","木瓜园"
 "https://www.sciencemag.org/rss/careers-latest.xml","2018-12-20","https://www.sciencemag.org/careers"," Science Career"
 "yihui.name/index.xml","2018-12-27","http://yihui.name","谢益辉"
-"https://yufree.cn/index.xml","2018-12-31","https://yufree.cn","于淼"
-"http://feeds2.feedburner.com/Louis_Han","2018-12-31","http://louishan.com","韩大叔"
+"https://yufree.cn/index.xml","2019-01-01","https://yufree.cn","于淼"
+"http://feeds2.feedburner.com/Louis_Han","2019-01-01","http://louishan.com","韩大叔"
