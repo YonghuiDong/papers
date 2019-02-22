@@ -6,4 +6,4 @@
 "https://yufree.cn/index.xml","2019-02-17","https://yufree.cn","于淼"
 "https://muguayuan.com/feed","2019-02-19","https://muguayuan.com/","木瓜园"
 "yihui.name/index.xml","2019-02-20","http://yihui.name","谢益辉"
-"https://www.sciencemag.org/rss/careers-latest.xml","2019-02-20","https://www.sciencemag.org/careers"," Science Career"
+"https://www.sciencemag.org/rss/careers-latest.xml","2019-02-21","https://www.sciencemag.org/careers"," Science Career"
