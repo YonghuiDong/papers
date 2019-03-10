@@ -4,6 +4,6 @@
 "https://muguayuan.com/feed","2019-02-19","https://muguayuan.com/","木瓜园"
 "http://feeds.feedburner.com/NonlinearDynamicsBlog","2019-02-26","http://blog.nonlinear.com","Progenesis"
 "yihui.name/index.xml","2019-03-06","http://yihui.name","谢益辉"
-"https://yufree.cn/index.xml","2019-03-06","https://yufree.cn","于淼"
 "http://feeds2.feedburner.com/Louis_Han","2019-03-06","http://louishan.com","韩大叔"
 "https://www.sciencemag.org/rss/careers-latest.xml","2019-03-07","https://www.sciencemag.org/careers"," Science Career"
+"https://yufree.cn/index.xml","2019-03-09","https://yufree.cn","于淼"
