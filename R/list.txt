@@ -6,4 +6,4 @@
 "https://www.sciencemag.org/rss/careers-latest.xml","2019-06-27","https://www.sciencemag.org/careers"," Science Career"
 "yihui.name/index.xml","2019-06-28","http://yihui.name","谢益辉"
 "https://yufree.cn/index.xml","2019-06-28","https://yufree.cn","于淼"
-"http://feeds2.feedburner.com/Louis_Han","2019-06-30","http://louishan.com","韩大叔"
+"http://feeds2.feedburner.com/Louis_Han","2019-07-01","http://louishan.com","韩大叔"
