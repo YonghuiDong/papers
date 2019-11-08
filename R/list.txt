@@ -6,4 +6,4 @@
 "http://feeds.feedburner.com/NonlinearDynamicsBlog","2019-10-23","http://blog.nonlinear.com","Progenesis"
 "https://yufree.cn/index.xml","2019-11-03","https://yufree.cn","于淼"
 "http://feeds2.feedburner.com/Louis_Han","2019-11-04","http://louishan.com","韩大叔"
-"https://www.sciencemag.org/rss/careers-latest.xml","2019-11-05","https://www.sciencemag.org/careers"," Science Career"
+"https://www.sciencemag.org/rss/careers-latest.xml","2019-11-07","https://www.sciencemag.org/careers"," Science Career"
