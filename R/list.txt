@@ -6,4 +6,4 @@
 "www.pzhao.org/en/index.xml","2020-10-14","http://www.pzhao.org","赵鹏"
 "http://feeds2.feedburner.com/Louis_Han","2020-10-26","http://louishan.com","韩大叔"
 "yihui.name/index.xml","2020-10-29","http://yihui.name","谢益辉"
-"https://www.sciencemag.org/rss/careers-latest.xml","2020-10-29","https://www.sciencemag.org/careers"," Science Career"
+"https://www.sciencemag.org/rss/careers-latest.xml","2020-11-04","https://www.sciencemag.org/careers"," Science Career"
